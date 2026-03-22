@@ -1,0 +1,9 @@
+UpdateScheme v2 已彻底弃用 PrivateBin。
+
+当前发布协议：
+
+1. 版本正文上传到 0x0.st。
+2. manifest 与作者索引存放在 GitHub 仓库。
+3. 分享文本格式为 `UpdateScheme:v2:<owner/repo>:<manifestId>`。
+
+本文件仅保留原文件名作为过渡提示，避免旧入口继续误导。

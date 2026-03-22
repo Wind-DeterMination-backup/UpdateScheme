@@ -1,0 +1,11 @@
+{
+  "name": "updatescheme",
+  "displayName": "UpdateScheme",
+  "author": "DeterMination",
+  "version": "2.0.0",
+  "minGameVersion": 154,
+  "description": "Subscribe to online schematics and check/apply updates. / 订阅在线蓝图并检查/应用更新。",
+  "main": "updatescheme.UpdateSchemeMod",
+  "hidden": true,
+  "java": true
+}
